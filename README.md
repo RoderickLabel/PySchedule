@@ -1,2 +1,2 @@
 # PySchedule
-Simple contact schedule developed with Python3
+Simple CLI contact schedule developed with Python3
